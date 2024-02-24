@@ -1,0 +1,241 @@
+condition,question,politics,mean,std,stde
+depression,control,centrist,3.13253012,1.295122975,0.084484507
+drugs,control,centrist,3.808080808,1.582279212,0.103216515
+fetish,control,centrist,3.169014085,1.521145391,0.099228584
+gay,control,centrist,2.444444444,1.742470873,0.113666267
+obese,control,centrist,5.031496063,1.46892147,0.095821871
+pedophile,control,centrist,3.707070707,1.75692522,0.114609164
+psychopath,control,centrist,2.911111111,1.591017231,0.10378652
+racist,control,centrist,5.571428571,1.557368558,0.101591523
+schizophrenia,control,centrist,1.987951807,1.401166551,0.091402028
+transgender,control,centrist,3,2.037386413,0.132904435
+depression,control,conservative,3.26,1.543246817,0.08001362
+drugs,control,conservative,3.781690141,1.953778653,0.101298704
+fetish,control,conservative,3.914285714,1.732685142,0.08983554
+gay,control,conservative,3.083333333,1.852490332,0.096047149
+obese,control,conservative,5.22513089,1.255135496,0.065075744
+pedophile,control,conservative,4.154929577,1.906672772,0.098856378
+psychopath,control,conservative,2.91025641,1.659272265,0.086029259
+racist,control,conservative,5.724832215,1.394288835,0.072290509
+schizophrenia,control,conservative,2.34,1.491947063,0.077353852
+transgender,control,conservative,4.353741497,1.961278312,0.101687543
+depression,control,liberal,2.97983871,1.590583619,0.064138522
+drugs,control,liberal,3.410788382,1.533422031,0.061833544
+fetish,control,liberal,3.196721311,1.652367653,0.066629895
+gay,control,liberal,1.852320675,1.475551066,0.059499962
+obese,control,liberal,4.897196262,1.293743933,0.052168791
+pedophile,control,liberal,3.493775934,1.904206598,0.076785021
+psychopath,control,liberal,2.35021097,1.534811435,0.06188957
+racist,control,liberal,5.768292683,1.439660792,0.058052726
+schizophrenia,control,liberal,2.036290323,1.37748434,0.05554553
+transgender,control,liberal,2.30620155,1.686303347,0.067998314
+depression,desired change,centrist,5.795180723,1.44626547,0.094343957
+drugs,desired change,centrist,4.595959596,1.252908387,0.081730731
+fetish,desired change,centrist,3.943661972,1.433151611,0.093488503
+gay,desired change,centrist,2.588888889,1.373050769,0.089567956
+obese,desired change,centrist,5.330708661,1.447795906,0.094443791
+pedophile,desired change,centrist,4.202020202,1.634948654,0.106652291
+psychopath,desired change,centrist,3.055555556,1.704990106,0.111221291
+racist,desired change,centrist,2.538461538,1.276346281,0.083259651
+schizophrenia,desired change,centrist,6.012048193,1.329716419,0.086741135
+transgender,desired change,centrist,4.271028037,1.988505144,0.129715773
+depression,desired change,conservative,5.746666667,1.361930463,0.070612805
+drugs,desired change,conservative,4.605633803,1.566301813,0.081208966
+fetish,desired change,conservative,3.542857143,1.640992731,0.08508151
+gay,desired change,conservative,3.185897436,1.597596934,0.082831542
+obese,desired change,conservative,5.329842932,1.444080285,0.074872075
+pedophile,desired change,conservative,3.73943662,1.703894486,0.088342814
+psychopath,desired change,conservative,3.147435897,1.706928905,0.088500141
+racist,desired change,conservative,2.953020134,1.548039608,0.080262115
+schizophrenia,desired change,conservative,5.72,1.336729456,0.069306194
+transgender,desired change,conservative,4.136054422,1.826889923,0.09471983
+depression,desired change,liberal,6,1.307096792,0.05270723
+drugs,desired change,liberal,4.937759336,1.519411056,0.061268567
+fetish,desired change,liberal,3.442622951,1.469745326,0.059265852
+gay,desired change,liberal,2.324894515,1.386959732,0.055927614
+obese,desired change,liberal,5.501557632,1.304139109,0.052587964
+pedophile,desired change,liberal,4.253112033,1.68518071,0.067953045
+psychopath,desired change,liberal,2.924050633,1.680689063,0.067771924
+racist,desired change,liberal,2.410569106,1.413538793,0.056999386
+schizophrenia,desired change,liberal,5.975806452,1.334461997,0.053810701
+transgender,desired change,liberal,4.38372093,2.008747047,0.081000499
+depression,difficulty changing,centrist,5.048192771,1.305743545,0.085177317
+drugs,difficulty changing,centrist,5.636363636,1.034650147,0.067493134
+fetish,difficulty changing,centrist,5.169014085,1.352098005,0.088201149
+gay,difficulty changing,centrist,6.177777778,1.277090951,0.083308228
+obese,difficulty changing,centrist,4.692913386,1.428240182,0.093168117
+pedophile,difficulty changing,centrist,5.585858586,1.421483136,0.092727336
+psychopath,difficulty changing,centrist,6.155555556,1.179517242,0.076943221
+racist,difficulty changing,centrist,4.901098901,1.476143211,0.096292966
+schizophrenia,difficulty changing,centrist,5.951807229,1.267834859,0.082704427
+transgender,difficulty changing,centrist,5.803738318,1.462998035,0.095435469
+depression,difficulty changing,conservative,4.833333333,1.425636166,0.073915792
+drugs,difficulty changing,conservative,5.725352113,1.179880786,0.061173969
+fetish,difficulty changing,conservative,4.666666667,1.603281891,0.083126294
+gay,difficulty changing,conservative,5.647435897,1.597596934,0.082831542
+obese,difficulty changing,conservative,4.696335079,1.458888248,0.075639832
+pedophile,difficulty changing,conservative,5.767605634,1.407505177,0.072975744
+psychopath,difficulty changing,conservative,5.961538462,1.243743648,0.064485104
+racist,difficulty changing,conservative,4.798657718,1.537723246,0.079727236
+schizophrenia,difficulty changing,conservative,5.78,1.230866994,0.063817481
+transgender,difficulty changing,conservative,5.217687075,1.585538268,0.08220633
+depression,difficulty changing,liberal,5.096774194,1.315859995,0.053060596
+drugs,difficulty changing,liberal,5.539419087,1.231319615,0.049651599
+fetish,difficulty changing,liberal,5.278688525,1.39620145,0.056300276
+gay,difficulty changing,liberal,6.675105485,0.868427183,0.035018364
+obese,difficulty changing,liberal,4.838006231,1.474339178,0.059451094
+pedophile,difficulty changing,liberal,5.77593361,1.417010372,0.057139373
+psychopath,difficulty changing,liberal,6.286919831,1.139598226,0.045953036
+racist,difficulty changing,liberal,4.951219512,1.494772707,0.060275053
+schizophrenia,difficulty changing,liberal,5.991935484,1.246832214,0.050277127
+transgender,difficulty changing,liberal,6.104651163,1.346814109,0.054308787
+depression,genes,centrist,3.819277108,1.279715844,0.083479457
+drugs,genes,centrist,3.232323232,1.40573376,0.09169996
+fetish,genes,centrist,3.126760563,1.557741749,0.101615867
+gay,genes,centrist,4.1,1.884591572,0.122937199
+obese,genes,centrist,3.881889764,1.28862036,0.084060324
+pedophile,genes,centrist,3.272727273,1.503860215,0.098101024
+psychopath,genes,centrist,4.022222222,1.445471641,0.094292173
+racist,genes,centrist,2.032967033,1.277589305,0.083340737
+schizophrenia,genes,centrist,5.024096386,1.268530008,0.082749774
+transgender,genes,centrist,3.831775701,1.855567763,0.121043894
+depression,genes,conservative,3.94,1.367062201,0.070878873
+drugs,genes,conservative,3.007042254,1.582244025,0.082035531
+fetish,genes,conservative,2.8,1.502561915,0.077904206
+gay,genes,conservative,3.692307692,1.844312564,0.095623152
+obese,genes,conservative,3.931937173,1.289869808,0.066876634
+pedophile,genes,conservative,2.591549296,1.646638224,0.085374215
+psychopath,genes,conservative,4.153846154,1.549833898,0.080355144
+racist,genes,conservative,2.040268456,1.510679079,0.078325062
+schizophrenia,genes,conservative,4.74,1.338284989,0.069386844
+transgender,genes,conservative,3.340136054,1.85611392,0.096235024
+depression,genes,liberal,4.181451613,1.348015001,0.054357211
+drugs,genes,liberal,3.43153527,1.498777741,0.060436552
+fetish,genes,liberal,3.032786885,1.525971639,0.061533115
+gay,genes,liberal,4.535864979,1.951688912,0.078699693
+obese,genes,liberal,3.984423676,1.213108247,0.048917246
+pedophile,genes,liberal,3.112033195,1.607242856,0.064810287
+psychopath,genes,liberal,4.565400844,1.441274576,0.0581178
+racist,genes,liberal,1.967479675,1.492484352,0.060182778
+schizophrenia,genes,liberal,5.012096774,1.302386022,0.052517273
+transgender,genes,liberal,4.387596899,1.824221288,0.073559702
+depression,internal distress,centrist,6.192771084,1.109359641,0.072366644
+drugs,internal distress,centrist,5.383838384,1.307022404,0.085260741
+fetish,internal distress,centrist,3.647887324,1.522203211,0.099297589
+gay,internal distress,centrist,3.844444444,1.460422527,0.095267461
+obese,internal distress,centrist,5.606299213,1.285804549,0.08387664
+pedophile,internal distress,centrist,4.797979798,1.609790188,0.105011133
+psychopath,internal distress,centrist,2.655555556,1.903049658,0.124141272
+racist,internal distress,centrist,3.120879121,1.705124074,0.11123003
+schizophrenia,internal distress,centrist,6.180722892,1.180580452,0.077012577
+transgender,internal distress,centrist,5.747663551,1.387909096,0.090537207
+depression,internal distress,conservative,5.866666667,1.20216062,0.062329125
+drugs,internal distress,conservative,5.521126761,1.361675594,0.070599591
+fetish,internal distress,conservative,4.047619048,1.694907261,0.087876848
+gay,internal distress,conservative,3.987179487,1.60236591,0.083078802
+obese,internal distress,conservative,5.628272251,1.232471479,0.063900669
+pedophile,internal distress,conservative,4.725352113,1.771101217,0.09182732
+psychopath,internal distress,conservative,3.115384615,1.954190001,0.101320032
+racist,internal distress,conservative,3.342281879,1.746702732,0.090562318
+schizophrenia,internal distress,conservative,6.18,1.081075775,0.056051168
+transgender,internal distress,conservative,5.496598639,1.567539515,0.081273138
+depression,internal distress,liberal,6.149193548,1.119354641,0.045136736
+drugs,internal distress,liberal,5.630705394,1.381624617,0.055712482
+fetish,internal distress,liberal,3.655737705,1.521478957,0.061351953
+gay,internal distress,liberal,3.641350211,1.708050192,0.068875231
+obese,internal distress,liberal,5.585669782,1.209201804,0.048759723
+pedophile,internal distress,liberal,4.98340249,1.670745355,0.067370955
+psychopath,internal distress,liberal,2.666666667,1.802383858,0.072679132
+racist,internal distress,liberal,3.012195122,1.839435821,0.074173211
+schizophrenia,internal distress,liberal,6.298387097,1.213819473,0.048945925
+transgender,internal distress,liberal,5.918604651,1.424208016,0.05742961
+depression,mental illness,centrist,4.590361446,1.592942856,0.103912134
+drugs,mental illness,centrist,3.474747475,1.848018433,0.12055143
+fetish,mental illness,centrist,3.183098592,1.980691504,0.129206067
+gay,mental illness,centrist,1.777777778,1.443916162,0.094190705
+obese,mental illness,centrist,2.062992126,1.494689178,0.097502771
+pedophile,mental illness,centrist,5.505050505,1.73425122,0.113130076
+psychopath,mental illness,centrist,5.466666667,1.736585828,0.113282369
+racist,mental illness,centrist,2.56043956,1.668058027,0.108812108
+schizophrenia,mental illness,centrist,6.409638554,1.093619461,0.071339868
+transgender,mental illness,centrist,3.168224299,2.238117392,0.145998681
+depression,mental illness,conservative,4.313333333,1.57214284,0.081511809
+drugs,mental illness,conservative,3.429577465,1.951169452,0.101163424
+fetish,mental illness,conservative,3.704761905,1.936113323,0.1003828
+gay,mental illness,conservative,2.615384615,1.854242001,0.096137969
+obese,mental illness,conservative,2.445026178,1.659379679,0.086034829
+pedophile,mental illness,conservative,5.591549296,1.746952482,0.090575267
+psychopath,mental illness,conservative,5.801282051,1.559238324,0.080842741
+racist,mental illness,conservative,2.456375839,1.722204831,0.089292161
+schizophrenia,mental illness,conservative,6.326666667,1.006666815,0.052193243
+transgender,mental illness,conservative,4.25170068,2.06684041,0.107160683
+depression,mental illness,liberal,4.705645161,1.491558021,0.060145424
+drugs,mental illness,liberal,3.900414938,1.745959572,0.070403885
+fetish,mental illness,liberal,3.016393443,1.733558272,0.069903816
+gay,mental illness,liberal,1.392405063,1.074564021,0.043330603
+obese,mental illness,liberal,2.040498442,1.458245436,0.058802131
+pedophile,mental illness,liberal,5.680497925,1.65378145,0.066686904
+psychopath,mental illness,liberal,6.084388186,1.390513008,0.056070896
+racist,mental illness,liberal,2.658536585,1.828702086,0.073740385
+schizophrenia,mental illness,liberal,6.370967742,1.116441295,0.045019258
+transgender,mental illness,liberal,2.120155039,1.606498469,0.064780271
+depression,punishment,centrist,3.86746988,0.676632341,0.044138627
+drugs,punishment,centrist,4.555555556,1.171273702,0.076405472
+fetish,punishment,centrist,4.084507042,0.751122567,0.048997834
+gay,punishment,centrist,3.988888889,0.382024308,0.024920518
+obese,punishment,centrist,4.039370079,0.647358182,0.042228992
+pedophile,punishment,centrist,5.171717172,1.270066719,0.082850018
+psychopath,punishment,centrist,4.644444444,1.084218883,0.070726641
+racist,punishment,centrist,4.934065934,1.113574802,0.07264161
+schizophrenia,punishment,centrist,3.060240964,1.328389797,0.086654596
+transgender,punishment,centrist,4.074766355,0.735885227,0.048003859
+depression,punishment,conservative,3.873333333,0.92900081,0.048166448
+drugs,punishment,conservative,4.654929577,1.148824713,0.059563787
+fetish,punishment,conservative,4.161904762,0.962007212,0.04987775
+gay,punishment,conservative,4.102564103,0.737733995,0.038249726
+obese,punishment,conservative,4.057591623,0.809049124,0.041947243
+pedophile,punishment,conservative,5.704225352,1.308936726,0.067865208
+psychopath,punishment,conservative,4.897435897,1.234867041,0.064024874
+racist,punishment,conservative,4.718120805,1.115496114,0.057835779
+schizophrenia,punishment,conservative,3.46,1.162212655,0.060257919
+transgender,punishment,conservative,4.170068027,0.743687127,0.038558381
+depression,punishment,liberal,3.774193548,1.032576352,0.041637497
+drugs,punishment,liberal,4.294605809,1.099399434,0.044332064
+fetish,punishment,liberal,4.131147541,0.714267699,0.028802054
+gay,punishment,liberal,4.029535865,0.59229963,0.023883826
+obese,punishment,liberal,3.987538941,0.518260781,0.020898292
+pedophile,punishment,liberal,5.331950207,1.365412,0.055058726
+psychopath,punishment,liberal,4.76371308,1.293346619,0.052152769
+racist,punishment,liberal,5.422764228,1.287352164,0.05191105
+schizophrenia,punishment,liberal,2.931451613,1.431053344,0.05770564
+transgender,punishment,liberal,4.027131783,0.620060489,0.025003252
+depression,wrongness,centrist,2.831325301,1.758736222,0.114727301
+drugs,wrongness,centrist,4.757575758,1.720766969,0.11225046
+fetish,wrongness,centrist,3.366197183,1.936413744,0.126317705
+gay,wrongness,centrist,2.133333333,1.837193756,0.119845306
+obese,wrongness,centrist,3.787401575,1.938048115,0.126424319
+pedophile,wrongness,centrist,6.484848485,1.288597057,0.084058803
+psychopath,wrongness,centrist,5.477777778,1.64369943,0.107223128
+racist,wrongness,centrist,6.340659341,1.035157317,0.067526218
+schizophrenia,wrongness,centrist,3.698795181,2.229157884,0.145414227
+transgender,wrongness,centrist,3.028037383,2.085248928,0.136026642
+depression,wrongness,conservative,3.233333333,1.967578373,0.102014186
+drugs,wrongness,conservative,5.577464789,1.493835767,0.077451777
+fetish,wrongness,conservative,4.4,1.978733083,0.102592531
+gay,wrongness,conservative,3.641025641,2.222897609,0.115251872
+obese,wrongness,conservative,4.308900524,1.68706358,0.087470172
+pedophile,wrongness,conservative,6.704225352,1.04364835,0.054110646
+psychopath,wrongness,conservative,5.557692308,1.727352569,0.089559059
+racist,wrongness,conservative,5.637583893,1.771450639,0.091845437
+schizophrenia,wrongness,conservative,3.76,2.045390956,0.106048581
+transgender,wrongness,conservative,4.442176871,2.094118482,0.108574985
+depression,wrongness,liberal,2.588709677,1.859485353,0.074981686
+drugs,wrongness,liberal,4.46473029,1.872999163,0.075526616
+fetish,wrongness,liberal,2.961748634,1.981691253,0.079909504
+gay,wrongness,liberal,1.594936709,1.40988328,0.056851981
+obese,wrongness,liberal,3.520249221,1.838918143,0.074152336
+pedophile,wrongness,liberal,6.593360996,1.053069675,0.042463868
+psychopath,wrongness,liberal,5.603375527,1.595434827,0.064334142
+racist,wrongness,liberal,6.56097561,1.015362338,0.040943361
+schizophrenia,wrongness,liberal,2.971774194,2.086007382,0.084115936
+transgender,wrongness,liberal,1.957364341,1.551365669,0.062557102
